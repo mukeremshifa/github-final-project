@@ -1,0 +1,5 @@
+Repository: https://github.com/mukeremshifa/github-final-project
+README: https://github.com/mukeremshifa/github-final-project/blob/main/README.md
+LICENSE: https://github.com/mukeremshifa/github-final-project/blob/main/LICENSE
+Code of Conduct: https://github.com/mukeremshifa/github-final-project/blob/main/CODE_OF_CONDUCT.md
+Contributing Guidelines: https://github.com/mukeremshifa/github-final-project/blob/main/CONTRIBUTING.md
